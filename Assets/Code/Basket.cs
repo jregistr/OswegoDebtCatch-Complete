@@ -16,7 +16,7 @@ public class Basket : MonoBehaviour {
 
     private Transform trans;
     private Rigidbody2D body;
-    private bool allowedControl = true;
+    private bool allowedControl = false;
 
     /// <summary>
     /// This is a very simple of a C# feature called a property. It's sort of like
