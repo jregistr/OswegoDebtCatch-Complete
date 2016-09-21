@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 9bed0a21bd26d744c9395a53494410b0
+timeCreated: 1474316635
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: clouds_0
+    21300002: clouds_1
+    21300004: clouds_2
+    21300006: clouds_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: clouds_0
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 537
+        width: 129
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 18}
+        - {x: -64.5, y: 9}
+        - {x: -64.5, y: -12}
+        - {x: -62.5, y: -14}
+        - {x: 64.5, y: -14}
+        - {x: 64.5, y: 4}
+        - {x: 36.5, y: 18}
+    - name: clouds_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 318
+        width: 839
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 239.5, y: -0.5}
+        - {x: 192.5, y: 4.5}
+        - {x: 123.5, y: 22.5}
+        - {x: 56.5, y: 31.5}
+        - {x: -17.5, y: 58.5}
+        - {x: -76.5, y: 87.5}
+        - {x: -139.5, y: 87.5}
+        - {x: -212.5, y: 59.5}
+        - {x: -244.5, y: 38.5}
+        - {x: -280.5, y: 48.5}
+        - {x: -384.5, y: 8.5}
+        - {x: -419.5, y: -37.5}
+        - {x: -419.5, y: -52.5}
+        - {x: -414.5, y: -56.5}
+        - {x: -328.5, y: -65.5}
+        - {x: -152.5, y: -61.5}
+        - {x: -138.5, y: -69.5}
+        - {x: -26.5, y: -68.5}
+        - {x: 32.5, y: -65.5}
+        - {x: 191.5, y: -85.5}
+        - {x: 203.5, y: -86.5}
+        - {x: 377.5, y: -86.5}
+        - {x: 419.5, y: -83.5}
+        - {x: 419.5, y: -67.5}
+        - {x: 392.5, y: -45.5}
+    - name: clouds_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 677
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 211.5, y: 61}
+        - {x: 190.5, y: 65}
+        - {x: 161.5, y: 65}
+        - {x: 129.5, y: 33}
+        - {x: 103.5, y: -3}
+        - {x: 10.5, y: 16}
+        - {x: 7.5, y: 17}
+        - {x: -70.5, y: 65}
+        - {x: -129.5, y: 65}
+        - {x: -293.5, y: -37}
+        - {x: -319.5, y: -57}
+        - {x: -319.5, y: -61}
+        - {x: -318.5, y: -63}
+        - {x: -282.5, y: -63}
+        - {x: -215.5, y: -61}
+        - {x: -125.5, y: -60}
+        - {x: 338.5, y: -55}
+        - {x: 338.5, y: -40}
+    - name: clouds_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 9
+        width: 468
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 208, y: -32.5}
+        - {x: 98, y: 65.5}
+        - {x: -54, y: 65.5}
+        - {x: -224, y: -11.5}
+        - {x: -224, y: -58.5}
+        - {x: -222, y: -62.5}
+        - {x: -167, y: -65.5}
+        - {x: 146, y: -65.5}
+        - {x: 220, y: -62.5}
+        - {x: 224, y: -55.5}
+        - {x: 224, y: -49.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

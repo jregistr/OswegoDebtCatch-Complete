@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: f536415e077fc71428c4604d60c4efd8
+timeCreated: 1474314108
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: basket-top
+    21300002: basket-bottom
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: basket-top
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 218
+        width: 398
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 175, y: 25}
+        - {x: 164, y: 39}
+        - {x: 162, y: 40}
+        - {x: -176, y: 40}
+        - {x: -184, y: 35}
+        - {x: -199, y: -6}
+        - {x: -199, y: -29}
+        - {x: -188, y: -39}
+        - {x: -138, y: -40}
+        - {x: 188, y: -40}
+        - {x: 199, y: -30}
+        - {x: 199, y: -12}
+    - name: basket-bottom
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 422
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 177, y: -100}
+        - {x: 185, y: -76}
+        - {x: 185, y: -63}
+        - {x: 199, y: 12}
+        - {x: 203, y: 45}
+        - {x: 211, y: 53}
+        - {x: 211, y: 92}
+        - {x: 203, y: 104}
+        - {x: 184, y: 104}
+        - {x: 181, y: 88}
+        - {x: 85, y: 87}
+        - {x: 60, y: 88}
+        - {x: 22, y: 87}
+        - {x: -13, y: 88}
+        - {x: -176, y: 88}
+        - {x: -185, y: 104}
+        - {x: -202, y: 104}
+        - {x: -211, y: 90}
+        - {x: -211, y: 63}
+        - {x: -210, y: 56}
+        - {x: -203, y: 43}
+        - {x: -191, y: -38}
+        - {x: -188, y: -77}
+        - {x: -182, y: -98}
+        - {x: -179, y: -104}
+        - {x: 171, y: -104}
+      - - {x: 192, y: -93}
+        - {x: 195, y: -92}
+        - {x: 195, y: -89}
+        - {x: 192, y: -88}
+        - {x: 190, y: -90}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
